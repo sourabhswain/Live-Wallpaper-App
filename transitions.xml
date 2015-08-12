@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="livewallpaper_transitions_names">
+        <item >&quot;Fade In&quot;</item>
+        <item >&quot;Slide In&quot;</item>
+    </string-array>
+    <string-array name="livewallpaper_transitions_prefix">
+        <item >&quot;fade&quot;</item>
+        <item >&quot;slide&quot;</item>
+    </string-array>
+    
+</resources>
