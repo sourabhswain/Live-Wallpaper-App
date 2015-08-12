@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="livewallpaper_mode_names">
+        <item >&quot;Aerial view&quot;</item>
+        <item >&quot;Pitchside View&quot;</item>
+        <item >&quot;Stadium View&quot;</item>
+        <item >&quot;Random&quot;</item>
+    </string-array>
+    <string-array name="livewallpaper_mode_prefix">
+        <item >&quot;aerial&quot;</item>
+        <item >&quot;pitchside&quot;</item>
+        <item >&quot;stadium&quot;</item>
+        <item >&quot;random&quot;</item>
+    </string-array>
+    
+</resources>
