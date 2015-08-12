@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Football Stadiums Live Wallpaper</string>
+    <string name="livewallpapersettings">Settings</string>
+    <string name="livewallpapersettings_mode_title">Select Mode</string>
+    <string name="livewallpapersettings_mode_summary">Choose which Mode to display in</string>
+    <string name="livewallpapersettings_transitions_title">Transition Effects</string>
+    <string name="livewallpapersettings_transitions_summary">Choose the desired transition (from one picture to another)</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
